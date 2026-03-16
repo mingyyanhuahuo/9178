@@ -1,0 +1,14 @@
+.vs\*
+.vscode\*
+bin
+obj
+cppwork0\*
+*.suo
+*.cache
+*.log
+*.vspscc
+*.vssscc
+*.user
+*.userosscache
+x64\*
+Debug\*
